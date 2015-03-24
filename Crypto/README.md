@@ -7,3 +7,6 @@
 *   Cryptopals: http://cryptopals.com/
 
 *   Microcorruption: https://microcorruption.com/
+
+*   Zero Knowledge Proofs:
+    http://blog.cryptographyengineering.com/2014/11/zero-knowledge-proofs-illustrated-primer.html
