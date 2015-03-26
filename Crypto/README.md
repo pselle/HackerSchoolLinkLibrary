@@ -10,3 +10,6 @@
 
 *   Zero Knowledge Proofs:
     http://blog.cryptographyengineering.com/2014/11/zero-knowledge-proofs-illustrated-primer.html
+
+*   RSA reading
+    http://www.mathaware.org/mam/06/Kaliski.pdf
